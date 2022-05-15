@@ -12,3 +12,11 @@ body{
   margin: 0;
   background-color:#97BC62FF;
 }
+
+.container{
+  box-shadow: 0px 0px 10px 2px white;
+  border-radius: 13px;
+  width: 680px;
+  background-color:#2C5F2D;
+
+}
