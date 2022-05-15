@@ -23,4 +23,9 @@ body{
 
 ul{
   list-style: none;
+
+}
+
+ul li{
+  margin: 1 rem 0;
 }
