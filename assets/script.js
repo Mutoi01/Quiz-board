@@ -21,7 +21,7 @@ function result(){
     alert("Excellent");
   }
   
-  else if (avg >50 && < 80  ){
+  else if (avg >50 ,percentage< 80  ){
     document.write("Fair");
   }
   
