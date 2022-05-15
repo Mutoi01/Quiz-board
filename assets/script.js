@@ -14,19 +14,5 @@ function submitAnswers(){
    alert("Your score is " + score);
 }
 
-function result(){
-  var percentage = score/3 * 100;
-   
-  if (percentage > 80){
-    alert("Excellent");
-  }
-  
-  else if (avg >50 ,percentage< 80  ){
-    document.write("Fair");
-  }
-  
-  else if (percentage< 50){
-    document.write("Poor! Retake the test");
-  }
 
-}
+  
