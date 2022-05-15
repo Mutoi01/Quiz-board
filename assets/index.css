@@ -44,3 +44,7 @@ button{
   font-size: medium;
   font-weight: 700;
 }
+
+button:hover{
+  background-color: rgba(250,250, 250, 0.8);
+}
